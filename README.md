@@ -29,6 +29,7 @@ The dashboard includes the following visuals:
 3. Analyze KPIs to understand and predict customer churn better.
 
 🚀 Future Improvements
+
 Add predictive analytics for proactive churn reduction.
 Integrate live data sources for real-time monitoring.
 
