@@ -1,4 +1,4 @@
-
+![customer churn dashboard](https://raw.githubusercontent.com/rohit6196/power-bi-telecom-churn-analysis/refs/heads/main/Churn%20Dashboard.png)
 📊 Customer Churn Dashboard in Power BI
 
 Welcome to the Customer Churn Dashboard! This Power BI dashboard provides a comprehensive analysis of customer churn, helping businesses understand patterns and trends in customer attrition. 
